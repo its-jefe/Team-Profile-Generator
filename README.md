@@ -1,19 +1,19 @@
-# `Team Profile Generator`
+# Team Profile Generator
 Project for [UCF Coding Bootcamp](https://github.com/UCF-Coding-Boot-Camp/UCF-VIRT-BO-FSF-PT-04-2021-U-B/tree/main/09-NodeJS/02-Challenge)
 
-## <u>`Description`</u>
+## <u>Description</u>
 ### A Node.js ommand-line application` that takes in information about employees on a ~~software engineering~~ team and generates an HTML webpage that displays summaries for each person. 
 <br>
 
-### `Learning Objectives`:
+### Learning Objectives:
 * Object Oriented Programming<br>
 * Test Driven Development
 
-## <u>`Walkthrough`</u>
+## <u>Walkthrough</u>
 [Walkthrough Video]() <i>demonstrates functionality and all of the tests passing</i>
 
 
-## <u>`Development`</u>
+## <u>Development</u>
 
 ### Mock:<br><img src="./development/mockup.png" alt="mockup" width="60%"/><br>
 
