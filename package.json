@@ -1,0 +1,25 @@
+{
+  "name": "10.object-oriented-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/its-jefe/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/its-jefe/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/its-jefe/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}

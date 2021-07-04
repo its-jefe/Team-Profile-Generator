@@ -6,12 +6,13 @@ A Node.js ommand-line application` that takes in information about employees on 
 <br>
 
 ### Learning Objectives:
-* Object Oriented Programming<br>
-* Test Driven Development
+* `Object Oriented Programming`<br>
+* `Test Driven Development`
 
-## Dependencies
-* Node.js
-* Inquirer
+## <u>Dependencies</u>
+### Node.js <br>
+> Included modules:
+> > fs <br> inquirer <br> jest
 
 ## <u>Walkthrough</u>
 [Walkthrough Video]() <i>demonstrates functionality and all of the tests passing</i>
@@ -23,6 +24,19 @@ A Node.js ommand-line application` that takes in information about employees on 
 #### Criteria:<br><img src="./development/criteria.png" alt="criteria" width="50%"/><br>
 
 Began by writing unit tests for each part of the code and ensured they all passed.
+
+## DELETE THIS SECTION AFTERWARDS
+```md
+__tests__/			// jest tests
+  Employee.test.js
+  Engineer.test.js
+  Intern.test.js
+  Manager.test.js
+dist/               // rendered output (HTML) and CSS style sheet
+lib/				// classes
+src/				// template helper code
+index.js			// runs the application
+```
 
 
 ## <u>Future Developments</u>
