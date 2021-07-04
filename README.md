@@ -2,7 +2,7 @@
 This project is from [UCF Coding Bootcamp](https://github.com/UCF-Coding-Boot-Camp/UCF-VIRT-BO-FSF-PT-04-2021-U-B/tree/main/10-OOP/02-Challenge)
 
 ## <u>Description</u>
-A Node.js ommand-line application` that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. 
+A Node.js command-line application` that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. 
 <br>
 
 ### Learning Objectives:
