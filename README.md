@@ -23,7 +23,7 @@ A Node.js command-line application that takes in information about employees on 
 
 ## <u>Walkthrough</u>
 
-[Walkthrough Video][2] <i>demonstrates functionality and tests passing</i>
+[Walkthrough Video][usage] <i>demonstrates functionality and tests passing</i>
 
 ## <u>Development</u>
 
@@ -43,19 +43,31 @@ A Node.js command-line application that takes in information about employees on 
 ## <u>Tests</u>
 
 [Checkem out][3]
+&
+[Test Walkthrough Video][4]
+>> front got cut off of this video somehow but its still solid
 
 ## <u>Future Developments</u>
 
 * Give the ability to add more roles/positions
   * And possibly add more criteria for positions
-<br><br>
+
+<br>
+
 * Want to consolidate functions.. especially inquirer prompt functions
   - There is definitely repeat code that I can get rid of
   - Functions should be dynamic and able to accept any of the classes
-    - see comments in on [Team.js][4] file & [issues][5]
+    - see comments in on [Team.js][5] file & [issues][6]
+
+<br>
+
+* Need to work on scalability (totally neglected)
+  - Works great on large screens but does not scale well, especially with longer emails.. But functionally, I am very happy with this so 🤫
 
 [1]: https://github.com/UCF-Coding-Boot-Camp/UCF-VIRT-BO-FSF-PT-04-2021-U-B/tree/main/10-OOP/02-Challenge
-[2]: https://
+[usage]: https://www.youtube.com/watch?v=spUYy095ViE
 [3]: https://github.com/its-jefe/Team-Profile-Generator/tree/main/__tests__
-[4]: https://github.com/its-jefe/Team-Profile-Generator/blob/main/lib/Team.js
-[5]: https://github.com/its-jefe/Team-Profile-Generator/issues
+[test]: https://www.youtube.com/watch?v=o7qdDidwnuw
+[5]: https://github.com/its-jefe/Team-Profile-Generator/blob/main/lib/Team.js
+[6]: https://github.com/its-jefe/Team-Profile-Generator/issues
+
