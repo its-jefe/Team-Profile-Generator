@@ -23,7 +23,7 @@ A Node.js command-line application that takes in information about employees on 
 
 ## <u>Walkthrough</u>
 
-[Walkthrough Video][usage] <i>demonstrates functionality and tests passing</i>
+[Usage Video][usage] <i>walkthrough demonstrates functionality</i>
 
 ## <u>Development</u>
 
@@ -44,7 +44,7 @@ A Node.js command-line application that takes in information about employees on 
 
 [Checkem out][3]
 &
-[Test Walkthrough Video][4] <br>
+[Tests Walkthrough Video][4] <br>
 <i> Front intro of this video got cut off but its still solid </i>
 
 ## <u>Future Developments</u>
@@ -70,4 +70,3 @@ A Node.js command-line application that takes in information about employees on 
 [test]: https://www.youtube.com/watch?v=o7qdDidwnuw
 [5]: https://github.com/its-jefe/Team-Profile-Generator/blob/main/lib/Team.js
 [6]: https://github.com/its-jefe/Team-Profile-Generator/issues
-
