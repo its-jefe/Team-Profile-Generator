@@ -29,8 +29,7 @@ A Node.js command-line application that takes in information about employees on 
 
 <div style="display: flex; flex-wrap: wrap">
   <div style="width: 100%; display: flex; justify-content: space-between">
-    <div><b>Mockup</b></div>
-    <div><b>Criteria</b> </div>
+    <div><b>Mockup</b></div><div><b>Criteria</b> </div>
   </div>
 </div>
 
