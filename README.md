@@ -44,7 +44,7 @@ A Node.js command-line application that takes in information about employees on 
 
 [Checkem out][3]
 &
-[Tests Walkthrough Video][4] <br>
+[Tests Walkthrough Video][test] <br>
 <i> Front intro of this video got cut off but its still solid </i>
 
 ## <u>Future Developments</u>
