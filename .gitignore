@@ -2,8 +2,4 @@ node_modules/
 
 .DS_Store/
 
-lib/__mocks__
-
-src
-
 Workspace.code-workspace
