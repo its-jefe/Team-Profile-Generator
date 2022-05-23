@@ -11,6 +11,7 @@ A Node.js command-line application that takes in information about employees on 
 
 - `Object Oriented Programming`<br>
 - `Test Driven Development`
+- `Node.js`
 - `Jest` testing
 - `Inquirer`
 
