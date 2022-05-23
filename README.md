@@ -1,6 +1,6 @@
 # Team Profile Generator
 
-This is the [Week 10][7] from [UCF Coding Bootcamp][1]
+This is the [Week 10 Project][7] from [UCF Coding Bootcamp][1]
 
 ## <u>Description</u>
 
@@ -11,6 +11,8 @@ A Node.js command-line application that takes in information about employees on 
 
 - `Object Oriented Programming`<br>
 - `Test Driven Development`
+- `Jest` testing
+- `Inquirer`
 
 ## <u>Dependencies</u>
 
