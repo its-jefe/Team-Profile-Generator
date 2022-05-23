@@ -1,6 +1,6 @@
 # Team Profile Generator
 
-This project is from [UCF Coding Bootcamp][1]
+This is the [Week 10][7] from [UCF Coding Bootcamp][1]
 
 ## <u>Description</u>
 
@@ -63,9 +63,11 @@ A Node.js command-line application that takes in information about employees on 
 * Need to work on scalability (totally neglected)
   - Works great on large screens but does not scale well, especially with longer emails.. But functionally, I am very happy with this so 🤫
 
-[1]: https://github.com/UCF-Coding-Boot-Camp/UCF-VIRT-BO-FSF-PT-04-2021-U-B/tree/main/10-OOP/02-Challenge
-[usage]: https://www.youtube.com/watch?v=spUYy095ViE
-[3]: https://github.com/its-jefe/Team-Profile-Generator/tree/main/__tests__
-[test]: https://www.youtube.com/watch?v=o7qdDidwnuw
-[5]: https://github.com/its-jefe/Team-Profile-Generator/blob/main/lib/Team.js
-[6]: https://github.com/its-jefe/Team-Profile-Generator/issues
+[1]:https://github.com/UCF-Coding-Boot-Camp/UCF-VIRT-BO-FSF-PT-04-2021-U-B/tree/main/10-OOP/02-Challenge
+[usage]:https://www.youtube.com/watch?v=spUYy095ViE
+[3]:https://github.com/its-jefe/Team-Profile-Generator/tree/main/__tests__
+[test]:https://www.youtube.com/watch?v=o7qdDidwnuw
+[5]:https://github.com/its-jefe/Team-Profile-Generator/blob/main/lib/Team.js
+[6]:https://github.com/its-jefe/Team-Profile-Generator/issues
+
+[7]:https://github.com/UCF-Coding-Boot-Camp/UCF-VIRT-BO-FSF-PT-04-2021-U-B/tree/main/10-OOP/02-Challenge
